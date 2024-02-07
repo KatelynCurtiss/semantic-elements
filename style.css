@@ -1,1 +1,9 @@
+/* CSS Variables */
+/* 06 FEB 2024 */
 
+:root {
+
+    --lightgreen: rgb(222, 243, 206);}
+    
+    body {
+        background-color: var(--lightgreen);}
